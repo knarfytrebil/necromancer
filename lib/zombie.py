@@ -1,4 +1,3 @@
-#!usr/bin/python2.6
 # encoding: utf-8
 import lib.handler as BrowserFactory
 import time
